@@ -1,0 +1,10 @@
+# A list containing all burgers details in this system,
+# Comments and empty lines are ignored,
+# Details are in the following pattern,
+# Burger Name, Price
+
+Queen's Signature,45
+Cheeseburger,25
+Chili Burger,32
+Olive Burger,36
+Beef Burger,40
